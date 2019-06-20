@@ -5,7 +5,7 @@ Have you ever wanted to be able to guess what letter a *computer* might be think
 Give my Psychic Game a try - [link to game!](https://peteawalk.github.io/psychic_game/)
 Guaranteed to be cheaper than calling the Psychic Hotline.
 
-##How to play
+## How to play
 * Type the letter than you want to guess. You have 10 tries to get it right.
 * If your guess is wrong, it will be tracked.
 * If you guess the correct letter, you will see the correct letter displayed to you.
